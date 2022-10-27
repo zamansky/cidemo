@@ -1,3 +1,3 @@
 * Readme
-![Tests:](https://github.com/zamansky/test/actions/workflows/main.yml/badge.svg)
+![Tests:](https://github.com/zamansky/cidemo/actions/workflows/main.yml/badge.svg)
 
